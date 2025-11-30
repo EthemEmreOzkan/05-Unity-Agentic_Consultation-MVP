@@ -31,7 +31,7 @@ public class Gemini_Api_Handler : MonoBehaviour
 
     #endregion
     //*-----------------------------------------------------------------------------------------//
-    #region Unity Life Cycle
+    #region Unity LifeCycle
     void Update()
     {
         if (Input.GetKeyDown(Test_Tusu))
