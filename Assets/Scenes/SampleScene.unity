@@ -166,6 +166,7 @@ MonoBehaviour:
   Cardiology: 0
   Orthopedics: 0
   Neurology: 0
+  Speaker: 
   Is_Response_Parsed_0: 0
 --- !u!1 &519420028
 GameObject:
@@ -434,7 +435,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Gemini_Api_Handler
   Api_Key_SO: {fileID: 11400000, guid: 12a8767cb66653b4ea1440169fedbaed, type: 2}
   model: gemini-2.5-flash-lite
-  Api_Key: AIzaSyDaTaRinpntq4vEa1wa4qe3t9jEitD23RQ
+  Api_Key: 
   Last_Response: 
   Is_Response_Received: 0
   Is_Request_In_Progress: 0
@@ -480,6 +481,11 @@ MonoBehaviour:
     Ayr\u0131ca hastan\u0131n d\xFC\u015Fmeden hemen \xF6nce g\xF6\u011Fs\xFCn\xFC
     tuttu\u011Fu ve EKG'de akut ST elevasyonu (kalp krizi bulgusu) g\xF6zlendi\u011Fi
     bildirildi. Tansiyon al\u0131namayacak kadar d\xFC\u015F\xFCk.\r\nern"
+  Cardiology_Trait: "Sakin \xE7\xF6z\xFCm odakl\u0131"
+  Orthopedics_Trait: 
+  Neurology_Trait: 
+  Max_Turn: 10
+  Current_Turn: 1
 --- !u!4 &1642653470
 Transform:
   m_ObjectHideFlags: 0

@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3714077f7309a8148b103988fdcbf744, type: 3}
   m_Name: Api_Key
   m_EditorClassIdentifier: Assembly-CSharp::Api_Key_SO
-  Default_Key: AIzaSyDIlZNJl8EELBOnQony__TBepROtyyCyJ8
-  Player_Key: AIzaSyDaTaRinpntq4vEa1wa4qe3t9jEitD23RQ
+  Default_Key: 
+  Player_Key: 

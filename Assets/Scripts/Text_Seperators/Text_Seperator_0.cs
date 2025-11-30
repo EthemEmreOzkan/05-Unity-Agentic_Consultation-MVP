@@ -10,9 +10,9 @@ public class Text_Seperator_0 : MonoBehaviour
 
     [Header("Ayrıştırılmış Değerler ----------------------------------------------------")]
     [Space]
-    [SerializeField] private int Cardiology = 0;
-    [SerializeField] private int Orthopedics = 0;
-    [SerializeField] private int Neurology = 0;
+    [SerializeField] public int Cardiology = 0;
+    [SerializeField] public int Orthopedics = 0;
+    [SerializeField] public int Neurology = 0;
     [Space]
     [Header("Konuşmacı -----------------------------------------------------------------")]
     public string Speaker;
